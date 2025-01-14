@@ -23,7 +23,7 @@ export const HeroSection = () => {
             <h1>
               Experience the
               <span className="text-transparent px-2 bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text">
-                Shadcn
+                Drivbox
               </span>
               landing page
             </h1>
